@@ -1,12 +1,14 @@
 
 h1 {
-    color: aquamarine;
+    color:#FF2E2E ;
 }
-
+body {
+    background-color: #371391;
+}
 .header{
-    background-color: blanchedalmond;
-    display : flex;
-    justify-content: space-between;
+    background-color: #371391;
+    display : flex ;
+    justify-content : space-between;
 }
 .grid{
     display: flex;
@@ -19,4 +21,5 @@ h1 {
 }
 p,h2 {
     text-align: center;
+    color: chartreuse;
 } 
